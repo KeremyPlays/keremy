@@ -2,3 +2,8 @@ body {
   background-color: #060606;
   color: white
 }
+
+.gradient-about {
+  background: linear-gradient(to left, #B21E1E, #F80909);
+  border-radius: 5px;
+}
