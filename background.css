@@ -5,6 +5,14 @@ body {
 
 .gradient-about {
   background: linear-gradient(to left, #B21E1E, #F80909);
-  border-radius: 5px;
+  border-radius: 6px;
+  padding: 5px;
   display: inline-block;
+}
+
+.main-about {
+    background: #171616;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
 }
