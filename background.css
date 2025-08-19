@@ -1,6 +1,7 @@
 body {
   background: linear-gradient(180deg, #060606, #070707, #080808, #C50707);
   color: white;
+  min-height: 175%;
 }
 
 .gradient-about {
