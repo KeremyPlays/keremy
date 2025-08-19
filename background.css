@@ -16,3 +16,12 @@ body {
     padding: 10px 20px;
     color: white;
 }
+
+.img-hover {
+  transition: transform 0.5 ease;
+  display:inline-block;
+}
+
+.img-hover:hover {
+  transform: scale(1.2);
+}
