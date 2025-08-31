@@ -20,3 +20,9 @@
 .img-hover:hover {
   transform: scale(1.2);
 }
+
+.faq-box {
+  background: #494649;
+  border-radius: 3px;
+  border-color: #2F2E2F;
+}
