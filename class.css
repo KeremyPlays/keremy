@@ -34,3 +34,10 @@
         max-width: 850px;
         color: white;
       }
+      
+      .top-navig {
+        border: 0px;
+        background: ##797279
+        color: white
+        padding: 25px
+      }
