@@ -49,5 +49,5 @@
       }
 
       .button-nav:hover{
-        font-size: 18
+       transform:scale(1.1)
       }
