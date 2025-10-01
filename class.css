@@ -47,3 +47,7 @@
         transition: transform 0.4s ease;
         display: inline-block
       }
+
+      .button-nav:hover{
+        font-size: 18
+      }
