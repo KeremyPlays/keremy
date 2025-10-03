@@ -45,7 +45,8 @@
       .button-nav {
         color: white;
         transition: transform 0.4s ease;
-        display: inline-block
+        display: inline-block;
+        text-decoration: none;
       }
 
       .button-nav:hover{
