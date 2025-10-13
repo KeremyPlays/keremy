@@ -78,8 +78,9 @@
         font-size:20px;
         color:white;
         transition: transform 0.4 ease;
+        width: 150px;
       }
 
-      .donate-button:hover{
+      .donate-button:hover {
         transform:scale(1.15)
       }
