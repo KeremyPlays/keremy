@@ -48,6 +48,7 @@
         color: white;
         transition: transform 0.4s ease;
         display: inline-block;
+        margin: 0 auto;
         text-decoration: none;
         text-shadow: 2px 2px 2px black;
         text-align:center;
