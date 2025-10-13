@@ -84,3 +84,10 @@
       .donate-button:hover {
         transform:scale(1.15)
       }
+
+      .blog-direct {
+        background: #6c6c6c;
+        text-align:center;
+        width: 350px;
+        height: 500px;
+      }
